@@ -98,11 +98,11 @@ Note: Specific numerical findings and top-performing categories should be added 
 
 7. Dashboard Screenshots
 
-Main Business Performance Dashboard
+Dashboard_Overview
 
-Data Visualization
+Data_Visualization
 
-Interactive Dashboard
+Interactive_Dashboard
 
 8. Business Recommendations
 
